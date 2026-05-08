@@ -4,6 +4,12 @@ A full-stack real-time chat application built using the **MERN Stack** with **So
 
 ---
 
+## Live Demo
+
+[Visit Application] : https://realtimechatapp-frontend-vgry.onrender.com
+
+---
+
 ## 🌟 Features
 
 - 🔐 JWT Authentication & Authorization
